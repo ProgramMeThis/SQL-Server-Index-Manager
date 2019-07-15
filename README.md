@@ -4,6 +4,7 @@ This application was written due to the fact that I'm needing to be able to do m
 
 # Forms
 ## Database Connection Properties
+This form is used as a dialog box for users to input the SQL Server connection information. It was modeled after the dialog box that you typically get in SQL Server Management Studio. <br /><br />
 <img src="https://user-images.githubusercontent.com/52602914/61195523-39650780-a68e-11e9-8468-1218f1e5a0bf.png" width="350" height="300">
 
 
@@ -12,9 +13,10 @@ This application was written due to the fact that I'm needing to be able to do m
 
 
 ## Index Manager
+This is the main/initial form.<br /><br />
 <img src="https://user-images.githubusercontent.com/52602914/61195601-ac6e7e00-a68e-11e9-9101-4ab8a2edd304.png" width="400" height="300">
 
 
 ## Index Manager Options
-This is a simple form that allows users to change the application settings.<br /><br />
+This form allows users to change the application settings.<br /><br />
 <img src="https://user-images.githubusercontent.com/52602914/61195177-1a657600-a68c-11e9-8396-b61e7df388b0.png" width="350" height="300">
