@@ -13,5 +13,5 @@ This application was written due to the fact that I'm needing to be able to do m
 
 
 ## Index Manager Options
-This is a simple form that allows users to change the application settings.
-![image](https://user-images.githubusercontent.com/52602914/61195177-1a657600-a68c-11e9-8396-b61e7df388b0.png)
+This is a simple form that allows users to change the application settings.<br />
+<img src="https://user-images.githubusercontent.com/52602914/61195177-1a657600-a68c-11e9-8396-b61e7df388b0.png" width="350" height="300">
